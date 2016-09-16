@@ -5,11 +5,11 @@ This Entity Linking system was presented at LREC2016. It is a collaborative effo
 The original code repository can be found at: https://github.com/MultimediaSemantics/relink.
 
 ##Team
-Filip Ilievski (VUA)
-Giuseppe Rizzo (ISMB/EURECOM)
-Marieke van Erp (VUA)
-Julien Plu (EURECOM)
-Raphael Troncy (EURECOM)
+  Filip Ilievski (VUA)
+  Giuseppe Rizzo (ISMB/EURECOM)
+  Marieke van Erp (VUA)
+  Julien Plu (EURECOM)
+  Raphael Troncy (EURECOM)
 
 ##Publication
 
