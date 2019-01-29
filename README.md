@@ -1,7 +1,14 @@
 # relink
-RElinking with CONtext - Entity linking module
+RElinking with CONtext is an Entity linking module, developed collaboratively with researchers from EURECOM, France and ISMB, Italy. The code in this relink repository provides the basis for the following paper:
+```xml
+@inproceedings{ilievski2016context,
+  title={Context-enhanced Adaptive Entity Linking.},
+  author={Ilievski, Filip and Rizzo, Giuseppe and van Erp, Marieke and Plu, Julien and Troncy, Rapha{\"e}l},
+  booktitle={LREC},
+  year={2016}
+}
+```
 
-This Entity Linking system was presented at LREC2016. It is a collaborative effort with researchers from EURECOM, France and ISMB, Italy. 
 The original code repository can be found at: https://github.com/MultimediaSemantics/relink.
 
 ##Team
@@ -10,10 +17,6 @@ The original code repository can be found at: https://github.com/MultimediaSeman
   * Marieke van Erp (VUA)
   * Julien Plu (EURECOM)
   * Raphael Troncy (EURECOM)
-
-##Publication
-
-Filip Ilievski, Giuseppe Rizzo, Marieke van Erp, Julien Plu, Raphael Troncy (2016). Context-enhanced Adaptive Entity Linking. In proceedings of LREC 2016. Portoroz, Slovenia.
 
 ##Contact
 
