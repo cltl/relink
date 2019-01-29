@@ -11,13 +11,13 @@ RElinking with CONtext is an Entity linking module, developed collaboratively wi
 
 The original code repository can be found at: https://github.com/MultimediaSemantics/relink.
 
-##Team
+## Team
   * Filip Ilievski (VUA)
   * Giuseppe Rizzo (ISMB/EURECOM)
   * Marieke van Erp (VUA)
   * Julien Plu (EURECOM)
   * Raphael Troncy (EURECOM)
 
-##Contact
+## Contact
 
 For any questions/suggestions, contact Filip Ilievski (f.ilievski@vu.nl).
